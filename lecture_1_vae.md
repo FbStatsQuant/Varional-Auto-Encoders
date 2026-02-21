@@ -317,5 +317,3 @@ A standard autoencoder may assign low reconstruction error to anomalies if they 
 
 ---
 
-**Previous Lecture**: Autoencoders and Nonlinear PCA  
-**Next Lecture**: Generative Adversarial Networks (GANs)
